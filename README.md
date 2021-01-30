@@ -1,4 +1,5 @@
 # Image-Compression-Analysis
+(Image used in examples is of my dog, Rowan)
 
 A highly common usage of principal component analysis regarding images is image compression. A digital image is composed of a matrix of pixels, each of which is represented by its three RGB color values. PCA can reduce the dimensions of this matrix, resulting in an image that retains its most significant features while requiring significantly less storage. 
 
